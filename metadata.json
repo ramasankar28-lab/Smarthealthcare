@@ -1,0 +1,6 @@
+{
+  "name": "Smart Healthcare Network",
+  "description": "Multi-hospital connected healthcare network platform featuring appointment booking, queue tracking, insurance discovery, billing, and role-based portals for patients and hospital staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
